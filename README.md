@@ -5,6 +5,8 @@
 
 ## kindle resources
 [kindlefere](http://kindlefere.com/)
+[Calibre使用教程之邮件一键推送电子书](http://kindlefere.com/post/11.html)
+
 [读远社区](http://www.readfar.com/)
 [http://nan.so/](http://nan.so/)
 [http://ibaqu.com/](http://ibaqu.com/)
